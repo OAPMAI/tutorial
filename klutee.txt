@@ -1,2 +1,3 @@
 klutee like to be a monkey.
 That is not she really wants to be.
+Today is 2015.05.06 and I am still learning Git now.
